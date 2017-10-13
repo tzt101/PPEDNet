@@ -10,7 +10,7 @@ Supported OS:
 the source code was tested on 64-bit Ubuntu 14.04.3 LTS Linux OS, and it should also be executable in other linux distributions.
 
 Installation:
-Please compile the modified Caffe framework caffe-segnet (It supports all all necessaty layers for ENet).
+Please compile the modified Caffe framework caffe-segnet (It supports all all necessaty layers for PPEDNet).
 
 Pre-trained Model:
 Please download the VGG16 pre-traiend model (https://github.com/BVLC/caffe/wiki/Model-Zoo).
