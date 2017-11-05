@@ -2,7 +2,7 @@
 
 ### Introduction
 PPEDNet is an encoder-decoder netwrok based on VGG16 framework for image semantic segmentation. This work focuses on the tradeoff between
-performance.
+performance and speed.
 
 ### Usage
 
